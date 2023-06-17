@@ -84,7 +84,7 @@ const Home = () => {
       </div>
       <div className="badge-container grow">
         <a
-          href="https://buildspace.so/builds/ai-writer"
+          href="https://threadleaderai-production.up.railway.app"
           target="_blank"
           rel="noreferrer"
         >
